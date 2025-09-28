@@ -5,7 +5,7 @@ import QuickInquiry from "./components/QuickInquiry";
 import Gallery from "./components/Gallery";
 import About from "./components/About";
 import Services from "./components/Services";
-import CTABanner from "./components/CTABanner";
+import CTABanner from "./components/CtaBanner";
 import Testimonials from "./components/Testimonials";
 import Blog from "./components/Blog";
 import Contact from "./components/Contact";
