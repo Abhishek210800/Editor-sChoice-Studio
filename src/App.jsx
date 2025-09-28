@@ -12,6 +12,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Toast from "./components/Toast";
 
+
 export default function App() {
   const [form, setForm] = useState({
     eventType: "Wedding",
