@@ -8,11 +8,11 @@ const GALLERIES = [
 
   { title: "Corporate Shoots", cover: "/images/c1.jpg", images: ["/images/c1.jpg", "/images/p4.jpg"], group: "Corporate" },
   { title: "Product Launch", cover: "/images/p1.jpg", images: ["/images/p2.jpg", "/images/p3.jpg"], group: "Corporate" },
-  { title: "Launch Shoots", cover: "/images/A11.jpg", images: ["/images/A13.jpg", "/images/A31.jpg"], group: "Corporate" },
-  { title: "Birthday", cover: "/images/weddings.jpg", images: ["/images/portraits.jpg", "/images/portraits.jpg"], group: "Family" },
+  { title: "Food Photography", cover: "/images/A11.jpg", images: ["/images/A13.jpg", "/images/A31.jpg"], group: "Corporate" },
+  { title: "Birthday Photography", cover: "/images/weddings.jpg", images: ["/images/portraits.jpg", "/images/portraits.jpg"], group: "Family" },
   { title: "Family Functions", cover: "/images/M1.jpg", images: ["/images/new1.jpg", "/images/M2.jpg", "/images/M2.jpg"], group: "Family" },
 
-  { title: "Fashion", cover: "/images/fas1.jpg", images: ["/images/fas1.jpg", "/images/fas2.jpg","/images/A22.jpg"], group: "Corporate" },
+  { title: "Fashion Photography", cover: "/images/fas1.jpg", images: ["/images/fas1.jpg", "/images/fas2.jpg","/images/A22.jpg"], group: "Corporate" },
 ];
 
 const TABS = ["Events", "Corporate", "Family"];
